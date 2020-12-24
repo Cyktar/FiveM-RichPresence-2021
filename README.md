@@ -1,29 +1,10 @@
-# FiveM-RichPresence-2021
 
-```lua
-        /*
-         *  SetDiscordAppId -> Set Id App.
-         */
+        ```console
+         # SetDiscordAppId -> Set Id App.
+         # SetDiscordRichPresenceAsset -> set Asset Name.
+         # SetDiscordpresenceAssetText -> Set text.
+         # SetDiscordAppId -> Set small text.
         ```
-
-        ```lua
-        /*
-         *  SetDiscordRichPresenceAsset -> set Asset Name.
-         */
-        ```lua
-
-        ```lua
-        /*
-         *  SetDiscordpresenceAssetText -> Set text.
-         */
-        ```
-
-        ```lua
-        /*
-         *  SetDiscordAppId -> Set small text.
-         */
-        ```
-        
 ```lua
 		SetDiscordAppId(791446632062386226)
 		SetDiscordRichPresenceAsset('rich')
